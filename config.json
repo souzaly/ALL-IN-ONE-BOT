@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTQ5MDMxMDUxMTAxMzkyNDk2NQ.GuqNAH.1sCAkp0dP2UpNptxmqJHzSYuYgd3uBiN5sXxHE",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://souzawzjj_db_user:ZF6qT054d0emQkL2@vision.lrgykfz.mongodb.net/?appName=vision",
     "excessCommands": {
         "other": true,
         "hentai": true,
